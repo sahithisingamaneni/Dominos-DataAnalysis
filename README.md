@@ -38,7 +38,7 @@ The project uses datasets related to orders, pizzas, and their details:
 ## 🚀 How to Use
 1. Clone the repository:
    ```
-   git clone https://github.com/your-repo/dominos-dataanalysis.git
+   git clone https://github.com/sahithisingamaneni/Dominos-DataAnalysis.git
    ```
 2. Import the datasets into your SQL database.
 3. Execute the SQL queries from `SQL Pizza Project Queries.sql` to analyze the data.
